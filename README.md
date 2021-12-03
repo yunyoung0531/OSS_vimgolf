@@ -248,7 +248,7 @@ https://user-images.githubusercontent.com/68066598/144617868-1215ddb9-735e-4c40-
    
  <solution>
   첫 번째 풀이 ->
-   <img src="(https://user-images.githubusercontent.com/68066598/144636668-ecdefe2d-6675-4fce-862a-a77f35289834.png" width="50%" height="50%"/>
+   <img src="https://user-images.githubusercontent.com/68066598/144636668-ecdefe2d-6675-4fce-862a-a77f35289834.png" width="50%" height="50%"/>
 
    
     :5 (다섯 번째 줄로 이동)
