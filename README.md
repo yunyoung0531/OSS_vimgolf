@@ -3,6 +3,8 @@ _오픈소스SW개론 과제 vimgolf_solution_
 ***조선대학교 컴퓨터공학과 20203215 최윤영***
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunyoung0531&show_icons=true&theme=radical)
+
 ---------------
 
 https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-a388-89999caf73ec.mp4
