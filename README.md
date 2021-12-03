@@ -250,7 +250,6 @@ https://user-images.githubusercontent.com/68066598/144617868-1215ddb9-735e-4c40-
   첫 번째 풀이 ->
    <img src="https://user-images.githubusercontent.com/68066598/144636668-ecdefe2d-6675-4fce-862a-a77f35289834.png" width="70%" height="70%"/>
 
-   
     :5 (다섯 번째 줄로 이동)
   
     enter키 누르기
@@ -294,6 +293,8 @@ https://user-images.githubusercontent.com/68066598/144617868-1215ddb9-735e-4c40-
     ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
 
    
+--> score 53
+   
    
  <solution>
   두 번째 풀이 -> 동영상
@@ -335,3 +336,6 @@ https://user-images.githubusercontent.com/68066598/144617868-1215ddb9-735e-4c40-
     ... ( 7번째 줄과 8번째 줄도 똑같이 반복)
   
     ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
+
+   
+--> score 52
