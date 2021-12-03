@@ -4,6 +4,9 @@ _오픈소스SW개론 과제 vimgolf_solution_
 
 
 https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-a388-89999caf73ec.mp4
+```<solution>
+  첫 번째 풀이 -> ![image](https://user-images.githubusercontent.com/68066598/144618870-4e9e182f-967b-41ec-a7c9-c794c9c8608d.png)
+
 
 
 https://user-images.githubusercontent.com/68066598/144617881-d60c423b-24a3-4689-89ee-5644205f6c6c.mp4
