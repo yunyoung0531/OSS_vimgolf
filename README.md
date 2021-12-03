@@ -7,17 +7,17 @@ https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-
 
 
 <solution>
-  첫 번째 풀이 ->
+  과제(1) ->
   <img src="https://user-images.githubusercontent.com/68066598/144618870-4e9e182f-967b-41ec-a7c9-c794c9c8608d.png" width="50%" height="50%"/>
   
   
-    G : 파일의 마지막 줄로 이동
+   * G : 파일의 마지막 줄로 이동
   
-    A : 현재 라인의 끝에서 입력 모드 시작
+   * A : 현재 라인의 끝에서 입력 모드 시작
   
-    " 입력하기
+   * " 입력하기
   
-    esc키 누르기 (일반모드로)
+   * esc키 누르기 (일반모드로)
   
     /{ : 아래쪽으로 "{" 검색함 
   
@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-
   
     ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
   
-  -->score 12
+  --> score 12
 
 
   두 번째 풀이 -> 동영상
@@ -52,8 +52,37 @@ https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-
   
   --> score 9
 
+  
+  
 
 https://user-images.githubusercontent.com/68066598/144617881-d60c423b-24a3-4689-89ee-5644205f6c6c.mp4
+  
+<solution>
+  과제(2) ->
+  <img src="https://user-images.githubusercontent.com/68066598/144623916-3281a630-fd33-471f-a329-945afe29ec79.png" width="50%" height="50%"/>
+  
+  
+    • :%s/str/replace/g : str → replace로 치환함
+  
+    A : 현재 라인의 끝에서 입력 모드 시작
+  
+    " 입력하기
+  
+    esc키 누르기 (일반모드로)
+  
+    /{ : 아래쪽으로 "{" 검색함 
+  
+    enter키 누르기
+  
+    i : 현재 위치에서 입력 모드 시작
+  
+    " 입력하기
+  
+    esc키 누르기 (일반모드로)
+  
+    ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
+  
+  --> score 12
 
 
 https://user-images.githubusercontent.com/68066598/144617883-6d2d297b-12d0-4352-80dc-f8002733bfeb.mp4
