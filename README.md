@@ -183,6 +183,38 @@ https://user-images.githubusercontent.com/68066598/144617883-6d2d297b-12d0-4352-
    
                                                                                                                                           
 https://user-images.githubusercontent.com/68066598/144617885-caf39a37-7211-41d6-ace8-3b5f509b7639.mp4
+   
+   
+ <solution>
+  첫 번째 풀이 ->
+   
+   <img src="https://user-images.githubusercontent.com/68066598/144634432-b4dc3999-8377-4a92-b461-b0252d2f6365.png" width="50%" height="50%"/>
+   
+   
+    :2,2s/y1/abs(y1)/g (두 번째 줄에 있는 y1를 abs(y1) 로 치환하겠다)
+  
+    :3,3s/y1/abs(y2)/g (세 번째 줄에 있는 y1를 abs(y2) 로 치환하겠다)
+  
+    :4,4s/y1/abs(y3)/g (네 번째 줄에 있는 y1를 abs(y3) 로 치환하겠다)
+  
+    :5,5s/y1/abs(y4)/g (다섯 번째 줄에 있는 y1를 abs(y4) 로 치환하겠다)
+  
+    :3s/1/2/g (세 번째 줄에 있는 1를 2로 치환하겠다)
+  
+    :4s/1/3/g (네 번째 줄에 있는 1를 3로 치환하겠다)
+   
+    :5s/1/4/g (다섯 번째 줄에 있는 1를 4로 치환하겠다)
+   
+    :3s/k/b/g (세 번째 줄에 있는 k를 b로 치환하겠다)
+   
+    :4s/k/r/g (네 번째 줄에 있는 k를 r로 치환하겠다)
+   
+    :5s/k/g/g (다섯 번째 줄에 있는 k를 g로 치환하겠다)
+  
+    ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
+  
+  --> score 139
+
 
 
 https://user-images.githubusercontent.com/68066598/144617868-1215ddb9-735e-4c40-a2ca-49a5afcc665e.mp4
