@@ -30,6 +30,8 @@ https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-
     esc키 누르기 (일반모드로)
   
     ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
+  
+  -->score 12
 
 
   두 번째 풀이 -> 동영상
@@ -47,6 +49,8 @@ https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-
     esc키 누르기 (일반모드로)
   
     ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
+  
+  --> score 9
 
 
 https://user-images.githubusercontent.com/68066598/144617881-d60c423b-24a3-4689-89ee-5644205f6c6c.mp4
