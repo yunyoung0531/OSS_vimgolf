@@ -188,7 +188,7 @@ https://user-images.githubusercontent.com/68066598/144617885-caf39a37-7211-41d6-
  <solution>
   첫 번째 풀이 ->
    
-   <img src="https://user-images.githubusercontent.com/68066598/144634432-b4dc3999-8377-4a92-b461-b0252d2f6365.png" width="50%" height="50%"/>
+   <img src="https://user-images.githubusercontent.com/68066598/144634432-b4dc3999-8377-4a92-b461-b0252d2f6365.png" width="70%" height="70%"/>
    
    
     :2,2s/y1/abs(y1)/g (두 번째 줄에 있는 y1를 abs(y1) 로 치환하겠다)
@@ -248,7 +248,7 @@ https://user-images.githubusercontent.com/68066598/144617868-1215ddb9-735e-4c40-
    
  <solution>
   첫 번째 풀이 ->
-   <img src="https://user-images.githubusercontent.com/68066598/144636668-ecdefe2d-6675-4fce-862a-a77f35289834.png" width="50%" height="50%"/>
+   <img src="https://user-images.githubusercontent.com/68066598/144636668-ecdefe2d-6675-4fce-862a-a77f35289834.png" width="70%" height="70%"/>
 
    
     :5 (다섯 번째 줄로 이동)
