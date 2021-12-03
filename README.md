@@ -8,7 +8,12 @@ https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-
 
 <solution>
   첫 번째 풀이 ->
-  !<img src="https://user-images.githubusercontent.com/68066598/144618870-4e9e182f-967b-41ec-a7c9-c794c9c8608d.png" width="50%" height="50%"/>
+  <img src="https://user-images.githubusercontent.com/68066598/144618870-4e9e182f-967b-41ec-a7c9-c794c9c8608d.png" width="50%" height="50%"/>
+  
+  
+  > G : 파일의 마지막 줄로 이동
+  > A : 현재 라인의 끝에서 입력 모드 시작
+  > " 입력하기
 
 
 
