@@ -76,6 +76,7 @@ https://user-images.githubusercontent.com/68066598/144617881-d60c423b-24a3-4689-
   
      :%s/sublime\|emacs/vim/g : sublime 과 emacs 를 vim 으로 치환함
   
+  --> score 27
   
 ----------------------------
   
@@ -142,7 +143,44 @@ https://user-images.githubusercontent.com/68066598/144617883-6d2d297b-12d0-4352-
   
   --> score 40
 
-                                                                                                                                          
+
+ <solution>
+  세 번째 풀이 -> 동영상
+   
+   
+    5 Shift _ : 5번째 줄로 이동 (:5 랑 같다)
+  
+    qq : qq는 이 후 입력을 q 레지스터에 기록
+  
+    P : 현재 위치에 붙여넣기
+  
+    i : 현재 위치에서 입력 모드 시작
+  
+    // 직접 타자 치기
+  
+    esc키 누르기 (일반모드로)
+  
+    2w : w를 두 번하는 거랑 같은 기능
+   
+    C : 현재 위치부터 라인 끝까지 삭제 후 입력 모드 시작
+   
+    TODO 직접 타자 치기
+   
+    esc키 누르기 (일반모드로)
+   
+    q : 매크로 기록
+   
+    k : 바로 위로
+   
+    @ + q : 매크로 실행 (// Version TODO 가 바로 쳐짐)
+  
+    ZZ누르기 (:wq : 저장하고 나가기 와 같은 기능)
+  
+  --> score 25
+   
+   
+--------------------------------------
+   
                                                                                                                                           
 https://user-images.githubusercontent.com/68066598/144617885-caf39a37-7211-41d6-ace8-3b5f509b7639.mp4
 
