@@ -7,8 +7,9 @@ _오픈소스SW개론 과제 vimgolf_solution_
 
 ---------------
 
-![vimgolf_1](https://user-images.githubusercontent.com/68066598/144713095-bc79066b-8ebd-4146-8d55-467f621f683a.gif)
+### 첫 번째 문제
 
+![vimgolf_1](https://user-images.githubusercontent.com/68066598/144713095-bc79066b-8ebd-4146-8d55-467f621f683a.gif)
 
 
 <solution>
@@ -60,7 +61,8 @@ _오픈소스SW개론 과제 vimgolf_solution_
   
   -------------------------------------------
   
-
+### 두 번째 문제
+  
 ![vimgolf_2](https://user-images.githubusercontent.com/68066598/144713126-3d8f1c01-8687-4cb3-bdf4-665f6228b7ca.gif)
 
   
@@ -83,7 +85,8 @@ _오픈소스SW개론 과제 vimgolf_solution_
   --> score 27
   
 ----------------------------
-  
+
+###  번째 문제  
   
 ![vimgolf_3](https://user-images.githubusercontent.com/68066598/144713141-51966c66-f335-46d9-acc0-551b6c074c62.gif)
 
@@ -186,7 +189,8 @@ _오픈소스SW개론 과제 vimgolf_solution_
    
 --------------------------------------
    
-                                                                                                                                          
+ ###
+   
 ![vimgolf_4](https://user-images.githubusercontent.com/68066598/144713160-c653490f-7423-4dab-8cf1-2f61246ec02d.gif)
 
    
@@ -248,6 +252,8 @@ _오픈소스SW개론 과제 vimgolf_solution_
    
    
 --------------------------------------------
+   
+ ### 다섯 번째 문제
    
 ![vimgolf_5](https://user-images.githubusercontent.com/68066598/144713167-ef3a12f6-884d-417c-a733-e7c54ab0db4d.gif)
 
