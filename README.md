@@ -7,7 +7,8 @@ _오픈소스SW개론 과제 vimgolf_solution_
 
 ---------------
 
-https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-a388-89999caf73ec.mp4
+![vimgolf_1](https://user-images.githubusercontent.com/68066598/144713095-bc79066b-8ebd-4146-8d55-467f621f683a.gif)
+
 
 
 <solution>
@@ -60,7 +61,8 @@ https://user-images.githubusercontent.com/68066598/144617877-d04628f5-1e8c-41f5-
   -------------------------------------------
   
 
-https://user-images.githubusercontent.com/68066598/144617881-d60c423b-24a3-4689-89ee-5644205f6c6c.mp4
+![vimgolf_2](https://user-images.githubusercontent.com/68066598/144713126-3d8f1c01-8687-4cb3-bdf4-665f6228b7ca.gif)
+
   
 <solution>
   첫 번째 풀이 ->
@@ -83,7 +85,8 @@ https://user-images.githubusercontent.com/68066598/144617881-d60c423b-24a3-4689-
 ----------------------------
   
   
-https://user-images.githubusercontent.com/68066598/144617883-6d2d297b-12d0-4352-80dc-f8002733bfeb.mp4
+![vimgolf_3](https://user-images.githubusercontent.com/68066598/144713141-51966c66-f335-46d9-acc0-551b6c074c62.gif)
+
   
  <solution>
   첫 번째 풀이 ->
@@ -184,7 +187,8 @@ https://user-images.githubusercontent.com/68066598/144617883-6d2d297b-12d0-4352-
 --------------------------------------
    
                                                                                                                                           
-https://user-images.githubusercontent.com/68066598/144617885-caf39a37-7211-41d6-ace8-3b5f509b7639.mp4
+![vimgolf_4](https://user-images.githubusercontent.com/68066598/144713160-c653490f-7423-4dab-8cf1-2f61246ec02d.gif)
+
    
    
  <solution>
@@ -245,7 +249,8 @@ https://user-images.githubusercontent.com/68066598/144617885-caf39a37-7211-41d6-
    
 --------------------------------------------
    
-https://user-images.githubusercontent.com/68066598/144617868-1215ddb9-735e-4c40-a2ca-49a5afcc665e.mp4
+![vimgolf_5](https://user-images.githubusercontent.com/68066598/144713167-ef3a12f6-884d-417c-a733-e7c54ab0db4d.gif)
+
    
    
  <solution>
