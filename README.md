@@ -86,7 +86,7 @@ _오픈소스SW개론 과제 vimgolf_solution_
   
 ----------------------------
 
-###  번째 문제  
+### 세 번째 문제  
   
 ![vimgolf_3](https://user-images.githubusercontent.com/68066598/144713141-51966c66-f335-46d9-acc0-551b6c074c62.gif)
 
